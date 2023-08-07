@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.b2b7efcc.css",
-    "main.js": "/portfolio/static/js/main.872efbaf.js",
+    "main.css": "/portfolio/static/css/main.3e471acc.css",
+    "main.js": "/portfolio/static/js/main.a506c75e.js",
     "static/js/787.fb771931.chunk.js": "/portfolio/static/js/787.fb771931.chunk.js",
     "static/media/travella website Mockup.png": "/portfolio/static/media/travella website Mockup.13e51879bb22305f66fd.png",
     "static/media/gym banner Mockup.png": "/portfolio/static/media/gym banner Mockup.add18978dc2fe1461344.png",
     "static/media/scoovy Logo Mockup.png": "/portfolio/static/media/scoovy Logo Mockup.3161180138bd3c4a6229.png",
+    "static/media/hotel porium Mockup.png": "/portfolio/static/media/hotel porium Mockup.a4aa662ca339e9e70561.png",
     "static/media/watch banner Mockup.png": "/portfolio/static/media/watch banner Mockup.df0bddbed649ff8778dd.png",
     "static/media/federal Logo Mockup.png": "/portfolio/static/media/federal Logo Mockup.ffa37d6007af338e95a9.png",
+    "static/media/techypreneur Mockup.png": "/portfolio/static/media/techypreneur Mockup.66c8e6f2940defd004ee.png",
     "static/media/gaming Logo Mockup.png": "/portfolio/static/media/gaming Logo Mockup.4b1d665aee36023ea0e3.png",
     "static/media/spark food website Mockup.png": "/portfolio/static/media/spark food website Mockup.30ff9b76a316bf9c4ff7.png",
     "static/media/federal banner Mockup.png": "/portfolio/static/media/federal banner Mockup.9fa5f4b2f19a9847d593.png",
     "static/media/lusty live banner Mockup.png": "/portfolio/static/media/lusty live banner Mockup.2bbfee1a0825ae1952d8.png",
+    "static/media/portfolio banner Mockup.png": "/portfolio/static/media/portfolio banner Mockup.d5dbe4c639c7981ad9e4.png",
     "static/media/banner bg - Copy.png": "/portfolio/static/media/banner bg - Copy.433605230464383810c7.png",
     "static/media/skill banner bg - Copy.png": "/portfolio/static/media/skill banner bg - Copy.0d9d94972830c8a35d1e.png",
-    "static/media/astronaut 2.png": "/portfolio/static/media/astronaut 2.dd8ccbb6e99efddc2edb.png",
+    "static/media/astronaut 2.png": "/portfolio/static/media/astronaut 2.2c46170433e30b96436f.png",
     "static/media/color-sharp2.png": "/portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
-    "static/media/contact.png": "/portfolio/static/media/contact.2953169f01247e2b990e.png",
+    "static/media/contact.png": "/portfolio/static/media/contact.d90e41f8891adc514ed5.png",
     "static/media/photoshop.png": "/portfolio/static/media/photoshop.34faf22abb6a3d9d883f.png",
     "static/media/react.png": "/portfolio/static/media/react.d5dc13646375c4714c43.png",
     "static/media/java img.png": "/portfolio/static/media/java img.18e849a6a7c90457a7b3.png",
@@ -38,12 +41,12 @@
     "static/media/nav-icon1.svg": "/portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/arrow2.svg": "/portfolio/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/portfolio/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
-    "main.b2b7efcc.css.map": "/portfolio/static/css/main.b2b7efcc.css.map",
-    "main.872efbaf.js.map": "/portfolio/static/js/main.872efbaf.js.map",
+    "main.3e471acc.css.map": "/portfolio/static/css/main.3e471acc.css.map",
+    "main.a506c75e.js.map": "/portfolio/static/js/main.a506c75e.js.map",
     "787.fb771931.chunk.js.map": "/portfolio/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b2b7efcc.css",
-    "static/js/main.872efbaf.js"
+    "static/css/main.3e471acc.css",
+    "static/js/main.a506c75e.js"
   ]
 }
