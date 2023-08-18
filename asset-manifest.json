@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.6b2868ce.css",
+    "main.css": "/portfolio/static/css/main.5cdb442d.css",
     "main.js": "/portfolio/static/js/main.08632cc5.js",
     "static/js/787.fb771931.chunk.js": "/portfolio/static/js/787.fb771931.chunk.js",
     "static/media/travella website Mockup.png": "/portfolio/static/media/travella website Mockup.13e51879bb22305f66fd.png",
@@ -41,12 +41,12 @@
     "static/media/nav-icon1.svg": "/portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/arrow2.svg": "/portfolio/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/portfolio/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
-    "main.6b2868ce.css.map": "/portfolio/static/css/main.6b2868ce.css.map",
+    "main.5cdb442d.css.map": "/portfolio/static/css/main.5cdb442d.css.map",
     "main.08632cc5.js.map": "/portfolio/static/js/main.08632cc5.js.map",
     "787.fb771931.chunk.js.map": "/portfolio/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6b2868ce.css",
+    "static/css/main.5cdb442d.css",
     "static/js/main.08632cc5.js"
   ]
 }
