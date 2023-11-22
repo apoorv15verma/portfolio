@@ -1,8 +1,11 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.e6e4dc5b.css",
-    "main.js": "/portfolio/static/js/main.0db1773e.js",
+    "main.js": "/portfolio/static/js/main.c79e36f3.js",
     "static/js/787.fb771931.chunk.js": "/portfolio/static/js/787.fb771931.chunk.js",
+    "static/media/lirix 2.png": "/portfolio/static/media/lirix 2.5841de394ce1ded0cb61.png",
+    "static/media/lirix 1.png": "/portfolio/static/media/lirix 1.5028153410a6aacdcca1.png",
+    "static/media/solo gun.png": "/portfolio/static/media/solo gun.fa00b5f0802d9b3b31dc.png",
     "static/media/banner bg - Copy.png": "/portfolio/static/media/banner bg - Copy.433605230464383810c7.png",
     "static/media/watch banner Mockup.png": "/portfolio/static/media/watch banner Mockup.d50b3bb1cd31abcf21d3.png",
     "static/media/travella website Mockup.png": "/portfolio/static/media/travella website Mockup.3d1457762cdd7ffb68a2.png",
@@ -16,7 +19,6 @@
     "static/media/scoovy Logo Mockup.png": "/portfolio/static/media/scoovy Logo Mockup.06ad24f13fb34f26e8ea.png",
     "static/media/hotel porium Mockup.png": "/portfolio/static/media/hotel porium Mockup.0bab78ab16c8ee16f80d.png",
     "static/media/lusty live banner Mockup.png": "/portfolio/static/media/lusty live banner Mockup.13154b21cdbd43e8a381.png",
-    "static/media/gaming Logo Mockup.png": "/portfolio/static/media/gaming Logo Mockup.4502fff1d9fe62372ee7.png",
     "static/media/astronaut 2.png": "/portfolio/static/media/astronaut 2.3d360260998f9866d96f.png",
     "static/media/photoshop.png": "/portfolio/static/media/photoshop.9b0edf3be10ad3875adc.png",
     "static/media/contact.png": "/portfolio/static/media/contact.184a711660c24e3b719e.png",
@@ -42,11 +44,11 @@
     "static/media/arrow2.svg": "/portfolio/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/portfolio/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "main.e6e4dc5b.css.map": "/portfolio/static/css/main.e6e4dc5b.css.map",
-    "main.0db1773e.js.map": "/portfolio/static/js/main.0db1773e.js.map",
+    "main.c79e36f3.js.map": "/portfolio/static/js/main.c79e36f3.js.map",
     "787.fb771931.chunk.js.map": "/portfolio/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6e4dc5b.css",
-    "static/js/main.0db1773e.js"
+    "static/js/main.c79e36f3.js"
   ]
 }
